@@ -1,7 +1,7 @@
 Working 1 to 2 hours daily these are the estimates for the project
 | Task                                             | Estimated Time                |
 | ------------------------------------------------ | ----------------------------- |
-| Project setup (Spring Boot, Redis config)        | 1 day                         | ✅
+| Project setup (Spring Boot, Redis config)        | 1 day                         | DONE ✅
 | Fetch + parse external data (UV + tide)          | 2–3 days                      | 
 | Redis cache logic (TTL, keys)                    | 1 day                         |
 | Classification logic (1–5 stars)                 | 1 day                         |
